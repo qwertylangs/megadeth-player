@@ -54,6 +54,36 @@ const songsList = [
     artist: "Megadeth",
     image: "img/Megadeth-RustInPeace.jpg",
   },
+  {
+    name: "Poison Was The Cure",
+    link: "audio/05. Poison Was The Cure.mp3",
+    artist: "Megadeth",
+    image: "img/Megadeth-RustInPeace.jpg",
+  },
+  {
+    name: "Lucretia",
+    link: "audio/06. Lucretia.mp3",
+    artist: "Megadeth",
+    image: "img/Megadeth-RustInPeace.jpg",
+  },
+  {
+    name: "Tornado Of Souls",
+    link: "audio/07. Tornado Of Souls.mp3",
+    artist: "Megadeth",
+    image: "img/Megadeth-RustInPeace.jpg",
+  },
+  {
+    name: "Dawn Patrol",
+    link: "audio/08. Dawn Patrol.mp3",
+    artist: "Megadeth",
+    image: "img/Megadeth-RustInPeace.jpg",
+  },
+  {
+    name: "Rust In Peace... Polaris",
+    link: "audio/09. Rust In Peace... Polaris.mp3",
+    artist: "Megadeth",
+    image: "img/Megadeth-RustInPeace.jpg",
+  },
 ];
 
 //events object
